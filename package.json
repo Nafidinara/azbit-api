@@ -1,0 +1,21 @@
+{
+  "name": "bot-trading",
+  "version": "1.0.0",
+  "description": "bot for trading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Kindcow",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "js-base64": "^3.6.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  }
+}
